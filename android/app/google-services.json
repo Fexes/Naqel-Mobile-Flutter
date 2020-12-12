@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "331974863267",
+    "firebase_url": "https://naqel-transport-jobs.firebaseio.com",
+    "project_id": "naqel-transport-jobs",
+    "storage_bucket": "naqel-transport-jobs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331974863267:android:074aeb0a16b2a859b5d216",
+        "android_client_info": {
+          "package_name": "com.naqel.naqelapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331974863267-2vjl13756m94bef34e6qg8kehmc4qdjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ7w7KA6DF96v5jPGy9SiLh1lc2QuCs_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331974863267-2vjl13756m94bef34e6qg8kehmc4qdjt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "331974863267-7p66okdji4r0586gct4qpjk09042p89b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.naqel.naqelapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
