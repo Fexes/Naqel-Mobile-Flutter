@@ -2,9 +2,9 @@
 
 A Flutter application For Naqel App.
 
-# Naqel Mobile Application![naqel](https://user-images.githubusercontent.com/12958443/172043389-fa1cf354-e76f-4c90-bf5c-c516a321ddeb.png)
+# Naqel Mobile Application!
 
 
-## Get Web App
+[naqel](https://user-images.githubusercontent.com/12958443/172043389-fa1cf354-e76f-4c90-bf5c-c516a321ddeb.png)
 
-- [Naqel Server](https://github.com/Hoosayin/Naqel-Server) 
+
